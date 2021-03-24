@@ -1,0 +1,162 @@
+{
+  "-MWaPHtWff8kCR1WuGDM" : {
+    "block" : "block-nr: 0\nprev-hash: 0000000000000000000000000000000000000000000000000000000000000000\ntransactions: \ncoinbase: 59464\ntimestamp: March 24, 2021 at 11:42:59 PM GMT+1",
+    "blockNr" : 0,
+    "coinbase" : "59464",
+    "hash" : "0000031377995b851743af55f9d5071842c4b737cbbe6224a2a78e8389fd3749",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 759920,
+    "previousHash" : "0000000000000000000000000000000000000000000000000000000000000000",
+    "timestamp" : 1616625805559
+  },
+  "-MWaPh5ubowzGStE5GR5" : {
+    "block" : "block-nr: 1\nprev-hash: 0000031377995b851743af55f9d5071842c4b737cbbe6224a2a78e8389fd3749\ntransactions: \ncoinbase: 59908\ntimestamp: March 24, 2021 at 11:44:47 PM GMT+1",
+    "blockNr" : 1,
+    "coinbase" : "59908",
+    "hash" : "0000096abc835f0190d6d9f0c0c220208606673fb54208fd5d1f57950de26a79",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 16320,
+    "previousHash" : "0000031377995b851743af55f9d5071842c4b737cbbe6224a2a78e8389fd3749",
+    "timestamp" : 1616625943477
+  },
+  "-MWaPy7XY-VwHtFzFdly" : {
+    "block" : "block-nr: 2\nprev-hash: 0000096abc835f0190d6d9f0c0c220208606673fb54208fd5d1f57950de26a79\ntransactions: \ncoinbase: 22446\ntimestamp: March 24, 2021 at 11:47:07 PM GMT+1",
+    "blockNr" : 2,
+    "coinbase" : "22446",
+    "hash" : "0000000ebb5d9e5cea9409ba388bbfb8807f9f4544584145ed0bc1e1fa447c69",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 8779,
+    "previousHash" : "0000096abc835f0190d6d9f0c0c220208606673fb54208fd5d1f57950de26a79",
+    "timestamp" : 1616626037752
+  },
+  "-MWaQIkVtWiwYJXdpKmj" : {
+    "block" : "block-nr: 3\nprev-hash: 0000000ebb5d9e5cea9409ba388bbfb8807f9f4544584145ed0bc1e1fa447c69\ntransactions: \ncoinbase: 24796\ntimestamp: March 24, 2021 at 11:48:00 PM GMT+1",
+    "blockNr" : 3,
+    "coinbase" : "24796",
+    "hash" : "00000f2ad91ffec2e7689e8246331df0f8851f55ae2b89a02be1f7cfa573a9e6",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 1994906,
+    "previousHash" : "0000000ebb5d9e5cea9409ba388bbfb8807f9f4544584145ed0bc1e1fa447c69",
+    "timestamp" : 1616626118007
+  },
+  "-MWaQZacHAvftHV4oC81" : {
+    "block" : "block-nr: 4\nprev-hash: 00000f2ad91ffec2e7689e8246331df0f8851f55ae2b89a02be1f7cfa573a9e6\ntransactions: \ncoinbase: 25290\ntimestamp: March 24, 2021 at 11:49:31 PM GMT+1",
+    "blockNr" : 4,
+    "coinbase" : "25290",
+    "hash" : "00000c6675ccb24e0218699b18cf7ec6a5aa0f124f470885893224481da0e25f",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 409753,
+    "previousHash" : "00000f2ad91ffec2e7689e8246331df0f8851f55ae2b89a02be1f7cfa573a9e6",
+    "timestamp" : 1616626201040
+  },
+  "-MWaQi2tHFPRf8N1ipS1" : {
+    "block" : "block-nr: 5\nprev-hash: 00000c6675ccb24e0218699b18cf7ec6a5aa0f124f470885893224481da0e25f\ntransactions: \ncoinbase: 27200\ntimestamp: March 24, 2021 at 11:50:18 PM GMT+1",
+    "blockNr" : 5,
+    "coinbase" : "27200",
+    "hash" : "00000e06dfc0f54eecd8afec76726ec49267ad9c3453e93c6b3d39750b83ef34",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 954343,
+    "previousHash" : "00000c6675ccb24e0218699b18cf7ec6a5aa0f124f470885893224481da0e25f",
+    "timestamp" : 1616626239232
+  },
+  "-MWaQsL8n2EwS67m72gr" : {
+    "block" : "block-nr: 6\nprev-hash: 00000e06dfc0f54eecd8afec76726ec49267ad9c3453e93c6b3d39750b83ef34\ntransactions: \ncoinbase: 27734\ntimestamp: March 24, 2021 at 11:50:59 PM GMT+1",
+    "blockNr" : 6,
+    "coinbase" : "27734",
+    "hash" : "0000019276505889a88a744c4da3706609afb42e792ccc81a970ad1795c09812",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 557940,
+    "previousHash" : "00000e06dfc0f54eecd8afec76726ec49267ad9c3453e93c6b3d39750b83ef34",
+    "timestamp" : 1616626270635
+  },
+  "-MWaQz3VtFwh050bMz-P" : {
+    "block" : "block-nr: 7\nprev-hash: 0000019276505889a88a744c4da3706609afb42e792ccc81a970ad1795c09812\ntransactions: \ncoinbase: 29734\ntimestamp: March 24, 2021 at 11:51:40 PM GMT+1",
+    "blockNr" : 7,
+    "coinbase" : "29734",
+    "hash" : "000004cbd85cc9d83019cc3f896ea98de3fcca320b83acc21a782f3298bf016f",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 594921,
+    "previousHash" : "0000019276505889a88a744c4da3706609afb42e792ccc81a970ad1795c09812",
+    "timestamp" : 1616626310579
+  },
+  "-MWaR5Uw7OPqVuxBaPvi" : {
+    "block" : "block-nr: 8\nprev-hash: 000004cbd85cc9d83019cc3f896ea98de3fcca320b83acc21a782f3298bf016f\ntransactions: \ncoinbase: 31464\ntimestamp: March 24, 2021 at 11:52:06 PM GMT+1",
+    "blockNr" : 8,
+    "coinbase" : "31464",
+    "hash" : "000001a29ac1d6c9c1e22708b394247c12559f87cf110ab0a219783b3fb07d1e",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 550971,
+    "previousHash" : "000004cbd85cc9d83019cc3f896ea98de3fcca320b83acc21a782f3298bf016f",
+    "timestamp" : 1616626339983
+  },
+  "-MWaRAT7b0TTArlnWLzw" : {
+    "block" : "block-nr: 9\nprev-hash: 000001a29ac1d6c9c1e22708b394247c12559f87cf110ab0a219783b3fb07d1e\ntransactions: \ncoinbase: 33646\ntimestamp: March 24, 2021 at 11:52:34 PM GMT+1",
+    "blockNr" : 9,
+    "coinbase" : "33646",
+    "hash" : "000000b5a868daae9fc43abed1d5f99938aabf3abb2853ca3f11d04ad665d531",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 520209,
+    "previousHash" : "000001a29ac1d6c9c1e22708b394247c12559f87cf110ab0a219783b3fb07d1e",
+    "timestamp" : 1616626363620
+  },
+  "-MWaRJoXxWTrPkoaYmQJ" : {
+    "block" : "block-nr: 10\nprev-hash: 000000b5a868daae9fc43abed1d5f99938aabf3abb2853ca3f11d04ad665d531\ntransactions: \ncoinbase: 35068\ntimestamp: March 24, 2021 at 11:52:54 PM GMT+1",
+    "blockNr" : 10,
+    "coinbase" : "35068",
+    "hash" : "00000e88fcfb7b20a1ca59c025eb790d61a301e8b60fa67f418944eaa6207ccd",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 2861159,
+    "previousHash" : "000000b5a868daae9fc43abed1d5f99938aabf3abb2853ca3f11d04ad665d531",
+    "timestamp" : 1616626399850
+  },
+  "-MWaRQLgL_Y5wBkLNiK3" : {
+    "block" : "block-nr: 11\nprev-hash: 00000e88fcfb7b20a1ca59c025eb790d61a301e8b60fa67f418944eaa6207ccd\ntransactions: \ncoinbase: 35908\ntimestamp: March 24, 2021 at 11:53:37 PM GMT+1",
+    "blockNr" : 11,
+    "coinbase" : "35908",
+    "hash" : "000009fb9ec5aa099bb8702df1c05fccb30d3b1b11f2844dbc96322df1d53f19",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 515167,
+    "previousHash" : "00000e88fcfb7b20a1ca59c025eb790d61a301e8b60fa67f418944eaa6207ccd",
+    "timestamp" : 1616626426716
+  },
+  "-MWaRW1QgFVrsLHwj_DA" : {
+    "block" : "block-nr: 12\nprev-hash: 000009fb9ec5aa099bb8702df1c05fccb30d3b1b11f2844dbc96322df1d53f19\ntransactions: \ncoinbase: 38068\ntimestamp: March 24, 2021 at 11:54:00 PM GMT+1",
+    "blockNr" : 12,
+    "coinbase" : "38068",
+    "hash" : "00000ed04ffd4285cacad74071034012aca62dc246dd482eb293941bf0f5189b",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 586552,
+    "previousHash" : "000009fb9ec5aa099bb8702df1c05fccb30d3b1b11f2844dbc96322df1d53f19",
+    "timestamp" : 1616626450442
+  },
+  "-MWaRcZcfMAjSj1WRJgC" : {
+    "block" : "block-nr: 13\nprev-hash: 00000ed04ffd4285cacad74071034012aca62dc246dd482eb293941bf0f5189b\ntransactions: \ncoinbase: 40352\ntimestamp: March 24, 2021 at 11:54:25 PM GMT+1",
+    "blockNr" : 13,
+    "coinbase" : "40352",
+    "hash" : "00000388d5aea0d50b1ba80223a3330fb639367a14eb739f828f874b3cacc655",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 1518269,
+    "previousHash" : "00000ed04ffd4285cacad74071034012aca62dc246dd482eb293941bf0f5189b",
+    "timestamp" : 1616626481229
+  },
+  "-MWaRlcdM9Upy4unfI2c" : {
+    "block" : "block-nr: 14\nprev-hash: 00000388d5aea0d50b1ba80223a3330fb639367a14eb739f828f874b3cacc655\ntransactions: \ncoinbase: 41464\ntimestamp: March 24, 2021 at 11:55:11 PM GMT+1",
+    "blockNr" : 14,
+    "coinbase" : "41464",
+    "hash" : "00000eaac261245a3e0eb2b8ea801ad453a2a313130798d678c9b1c0e340e27b",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 164091,
+    "previousHash" : "00000388d5aea0d50b1ba80223a3330fb639367a14eb739f828f874b3cacc655",
+    "timestamp" : 1616626518747
+  },
+  "-MWaRr4580N5VTfxX0E4" : {
+    "block" : "block-nr: 15\nprev-hash: 00000eaac261245a3e0eb2b8ea801ad453a2a313130798d678c9b1c0e340e27b\ntransactions: \ncoinbase: 42130\ntimestamp: March 24, 2021 at 11:55:29 PM GMT+1",
+    "blockNr" : 15,
+    "coinbase" : "42130",
+    "hash" : "00000ee6f04eca365be591376499445cbe6b5ec1bad01782c25694f663a8dbd0",
+    "miner" : "Satoshi Nakamoto",
+    "nonce" : 202903,
+    "previousHash" : "00000eaac261245a3e0eb2b8ea801ad453a2a313130798d678c9b1c0e340e27b",
+    "timestamp" : 1616626539811
+  }
+}
